@@ -1,0 +1,17 @@
+{
+  "name": "mern-sns-backend",
+  "version": "1.0.0",
+  "description": "mern-sns",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Nona",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "mongoose": "^6.4.3",
+    "nodemon": "^2.0.19"
+  }
+}
